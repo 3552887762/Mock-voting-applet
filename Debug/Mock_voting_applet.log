@@ -1,0 +1,6 @@
+﻿  voter.cpp
+  votermenu.cpp
+C:\Users\马振翔\source\repos\Mock_voting_applet\Mock_voting_applet\VotingInfo.hpp(43,32): warning C4244: “return”: 从“time_t”转换到“int”，可能丢失数据
+C:\Users\马振翔\source\repos\Mock_voting_applet\Mock_voting_applet\votermenu.cpp(102,46): warning C4018: “>”: 有符号/无符号不匹配
+  正在生成代码...
+  Mock_voting_applet.vcxproj -> C:\Users\马振翔\source\repos\Mock_voting_applet\Debug\Mock_voting_applet.exe
